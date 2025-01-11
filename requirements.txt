@@ -1,0 +1,12 @@
+cv2
+mediapipe
+serial
+time
+numpy
+os
+json
+ultralytics
+threading
+speech_recognition
+pyttsx3
+flask
